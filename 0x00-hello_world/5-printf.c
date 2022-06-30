@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/*
+/**
  * main - to be called
  * Return:0 for the int
  */
