@@ -3,6 +3,7 @@
 #include <stdio.h>
 
 /**
+ * _putchar prototypes()
  * void prototypes()
  * int prototypes()
  * char prototypes()
